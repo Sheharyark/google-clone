@@ -1,0 +1,11 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  bottom: 0;
+  width: 100%;
+  line-height: 40px;
+  border-top: 1px solid #e4e4e4;
+  min-width: 400px;
+  font-size: 15px;
+  font-family: arial, sans-serif;
+}
